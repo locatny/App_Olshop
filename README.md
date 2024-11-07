@@ -1,4 +1,5 @@
 # App_Olshop
+
 | Keterangan | Data |
 | ------ | ----- |
 |  Nama  | Hannifa Indah Rahayu  |
@@ -6,23 +7,13 @@
 |  NIM    | 312310653 |
 |  Maktul | Pemograman Mobile 1  |
 
+# Storyboard
+
+# Mockup
+
+# UI
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-|-----------|
