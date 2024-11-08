@@ -9,7 +9,8 @@
 
 # Storyboard
 
-# Mockup
+![image](https://github.com/user-attachments/assets/abf7a35a-6393-47c7-9ebe-83286ab4c278)
+
 
 # UI
 
