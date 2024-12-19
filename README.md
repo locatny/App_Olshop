@@ -9,15 +9,18 @@
 
 
 
-  # MOCKUP
+|MOCKUP|
+|------|
 ![image](https://github.com/user-attachments/assets/247981b5-ef46-4f65-951c-faf07dba90a1)
 
 
-# STORYBOARD
+|STORYBOARD|
+|--------|
 ![image](https://github.com/user-attachments/assets/07a81413-2afa-4974-b1b5-b7c4b8ae7478)
 
 
-# UI
+|UI|
+|--|
 ![image](https://github.com/user-attachments/assets/b1cd1d12-0ae3-4e2c-b98e-7c09e1bfb043)
 
 
